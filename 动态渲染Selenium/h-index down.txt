@@ -1,0 +1,1996 @@
+J. Wang
+3957 225962 170 439 11 6 45
+Wil M. P. Van Der Aalst
+1042 92659 140 289 7 4 276
+David E.Culler
+398 97407 113 312 6 4 60
+Dan Boneh
+372 66862 110 258 6 4 120
+S. Rajagopalan
+1006 102561 100 321 11 2 29
+John Mylopoulos
+804 40744 95 188 7 4 138
+John A. Stankovic
+525 41057 95 200 6 4 116
+Anoop Gupta
+502 36691 92 0 9 3 2
+Kishor S. Trivedi
+614 28751 84 156 7 4 96
+Douglas C. Schmidt
+863 30670 84 157 7 4 32
+Victor R. Basili
+564 39255 84 193 6 3 0
+Kang G. Shin
+893 30820 84 155 7 4 358
+John C. Mitchell
+369 22672 83 145 6 5 17
+Gaurav S. Sukhatme
+641 24478 81 144 7 3 120
+Gregory D. Abowd
+435 41248 80 200 7 4 39
+Tarek F. Abdelzaher
+361 26318 77 158 6 4 462
+Lothar Thiele
+586 43693 75 205 7 4 3125
+Trevor Mudge
+535 27183 74 156 6 4 171
+Bart Preneel
+780 21680 72 123 7 4 175
+Paul Dourish
+253 32951 72 181 6 3 33
+Ingrid Verbauwhede
+475 15373 68 106 6 4 207
+David Garlan
+445 29738 67 170 6 4 56
+Scott Mahlke
+282 15262 67 115 6 4 263
+H. Ma
+389 35603 67 188 10 4 28
+Jeff Kramer
+259 22287 65 148 6 4 23
+Don Batory
+366 17203 64 127 6 4 39
+Reid G. Simmons
+299 17293 64 126 6 4 25
+Barry W. Boehm
+478 27898 63 165 6 4 21
+Anand Raghunathan
+340 12906 62 104 6 3 156
+Dieter Schmalstieg
+435 16209 62 116 6 4 158
+Willy Zwaenepoel
+242 18188 62 134 5 4 71
+Chenyang Lu
+372 18691 62 132 7 4 607
+Sylvia Ratnasamy
+131 34234 61 131 5 3 255
+Nikil Dutt
+606 15718 61 109 6 4 76
+Niraj Jha
+469 16372 60 117 6 3 57
+Alok Choudhary
+695 16147 60 105 7 5 111
+Gerd Hirzinger
+674 14548 60 108 7 2 4
+Pradeep K. Khosla
+325 13166 59 106 6 3 0
+Bashar Nuseibeh
+324 17477 59 130 6 4 103
+Nenad Medvidovic
+299 18523 58 133 6 4 74
+Viktor K. Prasanna
+876 14227 58 97 7 5 163
+Josep Torrellas
+295 11501 57 101 6 4 323
+Richard N. Taylor
+274 28113 56 0 6 3 9
+Hong Mei
+523 11475 56 91 7 5 48
+Claes Wohlin
+324 18826 56 134 6 4 67
+Peter Steenkiste
+310 12545 56 106 6 4 144
+Ugo Montanari
+456 13734 56 105 6 4 30
+Rajesh Gupta
+1027 12774 55 102 9 4 29
+Arie Van Deursen
+305 12986 54 109 6 4 154
+Mario Piattini
+940 13975 54 85 7 4 57
+Steven G. Johnson
+515 33670 54 183 7 3 21
+Craig Chambers
+123 12379 54 0 5 3 0
+David S. Rosenblum
+208 12984 53 113 6 3 62
+Bernhard Rumpe
+467 10463 53 95 6 4 269
+Krzysztof Czarnecki
+275 22313 53 149 6 4 162
+David Notkin
+237 14198 53 0 6 4 22
+Piet Demeester
+874 14876 53 99 7 5 134
+Stéphane Ducasse
+365 11732 52 101 6 3 60
+Francky Catthoor
+839 11033 51 78 7 4 71
+Lui Raymond Sha
+243 16429 51 126 6 4 26
+Mark Handley
+99 39622 51 99 5 3 0
+Guang R. Gao
+426 7668 50 73 6 4 34
+Gabor Karsai
+330 12008 50 105 6 4 38
+Mary Shaw
+191 20489 49 0 6 4 0
+Wolfgang Emmerich
+350 10595 49 99 6 3 2
+Manfred Broy
+531 11352 49 95 6 4 34
+Jean Vanderdonckt
+488 9176 49 84 6 3 27
+Rick Kazman
+305 11090 48 102 6 4 60
+Alexander L. Wolf
+266 15341 48 123 6 4 60
+Bonnie E. John
+226 9116 48 93 8 3 2
+Harald Gall
+302 8934 48 89 6 4 53
+Ricard V. Solé
+155 8520 49 90 5 4 6
+Chrysanthos Dellarocas
+133 15385 48 0 5 3 8
+John C. Grundy
+357 7372 47 70 6 4 87
+Yuanyuan Zhou
+84 7885 47 84 5 4 28
+Gail E. Kaiser
+383 8323 47 83 6 3 11
+Robert J. K. Jacob
+246 11700 47 106 6 4 115
+Tom Mens
+243 8896 46 91 5 4 39
+Marco Mellia
+326 8135 46 81 6 4 0
+Bram Nauta
+440 9004 46 89 6 3 30
+Yann-Gaël Guéhéneuc
+202 6477 45 75 5 4 68
+Jörg Henkel
+370 8769 45 81 6 4 183
+Charles Consel
+226 6109 44 74 6 4 37
+Hans Van Vliet
+246 7451 43 80 6 4 40
+Dewayne E. Perry
+315 11211 43 103 6 3 14
+Wouter Joosen
+562 7542 43 65 6 5 266
+Patrick D. Lincoln
+123 9398 43 96 5 3 9
+Jeremy Roschelle
+154 11274 43 106 6 3 2
+Nigel Davies
+174 10078 43 99 6 4 40
+André Van Der Hoek
+197 6087 42 73 5 4 19
+Bernhard Plattner
+250 6880 42 78 6 4 3
+Muhammad Usman
+1532 9148 42 67 8 4 571
+Muhammad Ali Babar
+236 6086 41 72 6 4 0
+Joëlle Coutaz
+151 7657 41 86 5 3 3
+Alexander Egyed
+250 5976 41 68 6 4 94
+Ruby B. Lee
+221 7185 41 81 6 3 0
+Daniel A. Menascé
+156 6894 41 81 5 4 38
+Gordon S. Blair
+322 6012 41 67 6 4 17
+Jeffrey H. Reed
+396 6292 41 72 7 3 0
+Guru Parulkar
+108 14485 41 0 5 3 19
+Atul Prakash
+398 5540 41 70 8 3 66
+Paola Inverardi
+287 10863 40 100 6 4 16
+Philippe Kruchten
+214 15020 40 0 6 3 62
+Danny Weyns
+284 8747 40 90 6 4 58
+Valérie Issarny
+190 5190 40 67 5 5 45
+Aniruddha Gokhale
+339 6545 40 70 6 4 96
+Chaitali Chakrabarti
+249 5755 40 68 6 4 56
+Jaswinder Pal Singh
+132 13576 40 0 5 4 0
+Per Runeson
+234 12381 40 110 5 3 53
+Gudrun Klinker
+273 6067 40 72 6 3 41
+E. James Whitehead, Jr.
+128 7220 39 84 5 4 11
+Xavier Franch
+389 5081 39 56 6 4 121
+Reiko Heckel
+268 6579 39 75 5 4 24
+Hassan Gomaa
+287 6805 38 79 6 4 21
+Richard C. Holt
+185 5916 38 75 5 3 1
+David Redmiles
+204 5482 38 71 5 3 32
+Alessandro F. Garcia
+183 5827 38 71 6 4 70
+Wilhelm Hasselbring
+358 5791 38 67 6 4 100
+Reidar Conradi
+252 5734 38 70 6 3 3
+Giancarlo Succi
+387 4886 38 60 6 4 60
+Salvatore Orlando
+367 5555 38 65 6 4 33
+Stig Larsson
+429 7148 41 78 7 4 28
+Eduard Ayguadé
+311 5755 38 64 6 4 195
+Giuseppe Lipari
+169 5477 38 71 5 4 0
+Len Bass
+203 15217 37 0 6 3 0
+Ian Gorton
+278 4821 37 63 6 4 26
+Antonia Bertolino
+211 5254 37 67 6 4 43
+Eric A. M. Klumperink
+245 6057 37 75 6 3 11
+Rainer Koschke
+162 6317 37 79 5 3 16
+Patrik Jonsson
+121 5921 37 76 5 2 0
+Yinong Chen
+251 3822 37 55 6 4 23
+N. K. Jha
+264 4650 37 64 6 4 1
+Natalia Juristo
+204 5588 36 72 5 4 0
+Pearl Brereton
+149 7757 36 87 5 4 120
+Robert Deline
+78 8366 36 78 5 3 7
+Gerhard Reitmayr
+127 5249 36 70 5 3 32
+José Luiz Fiadeiro
+157 4134 35 60 5 4 26
+Michael W. Godfrey
+169 4813 35 66 5 3 45
+Sam Malek
+122 6997 35 83 5 3 86
+David Budgen
+173 7837 35 88 5 4 0
+David M. Hilbert
+133 7218 35 84 6 3 0
+Tom Holvoet
+281 5075 35 61 6 4 27
+Alexandru Telea
+186 4586 35 62 5 4 74
+Aditya P. Mathur
+143 10578 35 0 5 3 2
+Paris Avgeriou
+278 4653 34 60 6 4 156
+John Hosking
+178 3570 34 52 5 4 24
+Yogesh Simmhan
+170 6014 34 76 6 3 37
+Samarjit Chakraborty
+329 4856 34 60 6 4 117
+Hsien-Hsin Sean Lee
+127 4525 34 65 5 4 7
+Paolo Ciancarini
+229 5067 34 65 5 4 32
+Ahmed A. Jerraya
+186 3706 34 54 6 3 0
+Rolf Johansson
+411 4727 34 59 7 3 50
+Christiaan J. J. Paredis
+171 3981 34 56 5 2 8
+Srivaths Ravi
+137 4692 34 67 5 3 3
+Ralf Reussner
+257 5006 33 65 6 4 61
+Claus Pahl
+304 3497 33 51 9 4 85
+Kostas Kontogiannis
+192 3623 33 57 5 4 21
+Leon J. Osterweil
+265 5305 33 69 6 4 7
+Paul Grünbacher
+160 4395 33 63 5 4 92
+Bruce H. Thomas
+147 4137 33 60 5 3 0
+W. T. Tsai
+121 3566 33 56 5 4 1
+Kevin J. Sullivan
+227 6462 33 79 6 3 27
+Raffaela Mirandola
+187 7458 32 85 6 4 79
+Lars Grunske
+113 3027 32 53 5 3 33
+Joost Visser
+156 5101 32 70 5 4 14
+Ron Brightwell
+158 3549 32 55 6 3 30
+Li Zhang
+2730 11116 32 58 9 7 11
+Krisztian Flautner
+81 6461 32 80 5 2 0
+Laurence Nigay
+230 4385 32 61 6 3 26
+Tien N. Nguyen
+143 3427 32 54 5 3 88
+Joost N. Kok
+212 5069 32 68 6 4 22
+Henk Corporaal
+429 4837 32 53 6 4 114
+Bart Dhoedt
+371 5302 32 59 6 4 58
+Chandramohan A. Thekkath
+75 6800 32 75 5 2 0
+Debra J. Richardson
+151 3016 31 52 5 3 2
+Leana Golubchik
+161 3350 31 55 5 4 35
+Uwe Zdun
+273 3890 31 53 6 4 125
+Naranker Dulay
+140 6810 32 81 5 4 1
+Ina Schaefer
+208 3101 31 50 6 4 0
+Yuriy Brun
+116 6756 31 82 5 3 88
+Karama Kanoun
+122 3236 31 55 5 3 14
+Samuel Kounev
+167 3658 31 53 5 4 59
+Fabrizio Silvestri
+160 3946 31 60 6 4 74
+Timothy C. Lethbridge
+155 4631 31 65 5 3 25
+Weidong Shi
+325 3530 31 49 6 4 9
+Jesper Andersson
+87 10130 31 87 6 3 0
+Ivica Crnkovic
+249 4876 30 66 6 4 47
+Bradley Schmerl
+143 5704 30 75 6 3 44
+Walt Scacchi
+235 3675 30 58 5 3 9
+Malcolm Munro
+332 3835 30 58 6 4 2
+José M. Troya
+141 3255 30 54 4 4 0
+Alexander Romanovsky
+347 3904 30 50 6 4 36
+John D. Mcgregor
+227 4193 31 62 6 3 17
+Roberto Bruni
+239 3022 30 50 6 4 29
+Sandip Kundu
+275 3447 30 48 6 4 25
+Jie Xu
+191 3141 30 49 5 4 35
+Martin Griss
+162 6510 30 79 6 3 14
+Jonathan Aldrich
+111 3504 30 58 5 3 5
+Laurent Mathy
+136 3366 30 56 5 4 10
+Carliss Y. Baldwin
+160 5471 30 73 5 1 0
+Heiko Koziolek
+110 3277 29 56 5 3 37
+Vittorio Cortellessa
+137 2679 29 48 5 4 41
+Laurence Duchien
+148 3232 29 54 5 3 24
+Mehmet Aksit
+256 4235 29 61 6 4 79
+Lidia Fuentes
+211 2938 29 47 6 4 91
+Mehdi Jazayeri
+168 7687 29 87 5 4 6
+Stephen S. Yau
+463 4375 29 59 6 4 28
+Saddek Bensalem
+145 3437 29 56 5 4 58
+Leon Moonen
+124 3601 29 59 5 3 44
+Pontus Johnson
+165 2850 29 49 5 3 28
+Bran Selic
+161 5491 29 73 5 4 10
+Paul C. Clements
+140 7704 28 87 5 3 1
+Henry Muccini
+155 2586 28 46 5 4 55
+Vincenzo Grassi
+77 5483 28 74 5 4 31
+Kenneth M. Anderson
+97 4741 28 68 5 3 8
+Barbara Hayes-Roth
+113 4519 27 67 5 3 0
+Eduardo B. Fernandez
+236 3175 28 50 7 3 9
+Ali Mili
+189 3889 25 59 5 4 21
+Sergi Valverde
+104 4525 31 67 5 3 3
+Wayne Piekarski
+73 3299 28 57 4 3 0
+Michel Chaudron
+196 3093 28 48 6 4 88
+Marco Torchiano
+174 3024 28 51 5 3 19
+Patricia Lago
+101 2366 27 47 5 3 10
+Olivier Barais
+155 2569 27 46 6 3 85
+Barbara Hayes-Roth
+113 4519 27 67 5 3 0
+Stefania Gnesi
+245 2677 27 46 6 4 106
+Liesbet Van Der Perre
+231 3556 27 56 6 4 40
+Sandeep Neema
+150 3221 27 54 8 3 3
+Martin L. Griss
+100 4119 27 63 6 3 10
+Luiz Fernando Capretz
+167 2290 27 43 5 3 52
+George S. Avrunin
+112 4555 27 67 5 3 0
+Esperanza Marcos
+231 2115 27 41 5 4 25
+Slinger Jansen
+158 2755 27 47 7 4 52
+Ivar Jacobson
+123 24011 27 123 5 4 43
+Aybüke Aurum
+62 2813 26 52 4 4 10
+Peyman Oreizy
+51 6722 26 51 5 2 0
+Yuanfang Cai
+109 2888 26 53 5 3 34
+Dimitra Giannakopoulou
+106 2996 26 54 5 3 24
+Tommi Mikkonen
+251 2877 26 45 6 4 100
+Dirk Muthig
+111 4006 26 63 5 3 0
+José Carlos Maldonado
+136 2613 27 47 5 4 18
+Daniel Le Métayer
+90 2634 26 51 4 4 13
+Alex Galis
+212 2381 26 42 6 3 35
+Alan W. Brown
+118 4230 26 64 5 3 1
+Dianxiang Xu
+169 2260 26 44 6 4 26
+Spiros Mancoridis
+88 2604 27 49 5 3 8
+Radu Mateescu
+104 3056 26 55 5 4 22
+Faheem Ahmed
+158 2150 26 40 5 4 9
+Ivan Seskar
+142 2921 26 51 6 4 84
+Vijayan Sugumaran
+182 2531 26 48 5 4 127
+Marcello M. Bonsangue
+157 2272 28 44 5 4 30
+Aybüke Aurum
+62 2813 26 52 4 4 10
+Swapna S. Gokhale
+166 3035 25 51 5 4 4
+Mikael Lindvall
+118 2870 25 53 5 3 22
+Gang Huang
+158 2683 25 47 5 4 0
+Eelke Folmer
+81 2354 25 48 5 3 22
+Patrizio Pelliccione
+103 1869 25 39 5 4 24
+Kari Smolander
+126 1999 25 41 5 4 42
+Volker Gruhn
+362 2653 25 43 6 5 62
+Li-Rong Dai
+250 2714 25 45 6 4 56
+Armin Eberlein
+120 2688 26 50 5 3 0
+Eduardo Santana De Almeida
+207 2109 25 38 7 3 84
+Jeffrey C. Carver
+145 2375 26 45 5 3 53
+Roel Wuyts
+131 2398 25 47 5 3 4
+Xiaolei Qian
+71 2434 25 49 4 3 0
+Ali Mili
+189 3889 25 59 5 4 21
+Peng Ye
+106 3051 25 55 6 4 1
+Daniel A. Menasce
+56 4001 25 56 4 3 0
+Eno Thereska
+74 3275 25 57 5 2 23
+Krysta M. Svore
+71 2286 25 47 5 2 16
+Paul Le Guernic
+124 3451 25 58 5 3 2
+Elias N. Houstis
+208 2092 25 42 6 3 0
+Steve Goddard
+86 2533 25 49 4 3 1
+Chung-Horng Lung
+181 2373 24 43 5 4 38
+Lars Lundberg
+323 3851 24 59 6 3 11
+Antónia Lopes
+77 3237 25 56 5 4 0
+Carlos Canal
+79 2297 24 47 4 3 8
+Nicolas Anquetil
+87 2482 24 49 5 3 13
+Hany H. Ammar
+119 2261 24 46 5 3 0
+Matteo Gaeta
+146 1565 24 35 5 4 26
+Jean-Pierre Talpin
+190 3414 24 57 6 3 6
+Aviral Shrivastava
+140 1768 24 35 5 3 39
+Dorina C. Petriu
+88 3014 25 54 5 3 0
+Yvonne Dittrich
+133 1980 24 42 5 3 35
+Robert L. Nord
+93 5827 23 76 5 3 9
+Klaus Marius Hansen
+136 2190 23 44 5 3 4
+Katerina Goseva-Popstojanova
+59 2726 23 52 5 3 10
+Fuqing Yang
+74 1774 23 41 5 3 0
+Dennis Heimbigner
+80 3985 23 63 4 3 0
+Moreno Marzolla
+86 1702 23 40 7 3 57
+Martin Törngren
+75 1612 23 38 5 3 29
+Francesco Tisato
+292 3300 23 56 6 4 5
+Massimo Tivoli
+78 3472 23 58 5 3 13
+Joseph Zambreno
+88 1749 23 39 5 4 19
+Guido Dedene
+189 2705 23 50 5 3 15
+Marco Tulio Valente
+141 1666 23 35 6 4 67
+Stefano Russo
+158 1674 23 34 5 4 54
+Sandeep Purao
+146 3257 23 55 5 4 6
+Shige Wang
+122 1777 23 40 6 4 0
+Alberto Avritzer
+87 1506 22 37 5 4 14
+Larry Kerschberg
+174 1809 23 39 5 4 4
+Susan Eisenbach
+121 2889 23 52 5 3 16
+Hong Liu
+525 3309 23 45 7 5 3
+Rogério De Lemos
+112 4167 22 64 5 4 6
+Rafael Capilla
+96 1551 22 37 5 3 24
+Simonetta Balsamo
+79 2190 22 46 4 3 3
+Liming Zhu
+176 2603 22 47 6 4 56
+Michel Wermelinger
+80 1790 22 41 5 3 9
+Kai Koskimies
+143 1593 22 36 5 4 16
+Sooyong Park
+217 3615 22 59 7 4 28
+Jeffrey J. P. Tsai
+227 1905 22 40 6 4 27
+T. C. Nicholas Graham
+83 1631 22 38 5 3 30
+Kim Mens
+178 2238 22 44 5 3 24
+Michel R. V. Chaudron
+139 1731 22 35 5 4 78
+Gaëlle Calvary
+113 2580 22 50 5 3 35
+Juergen Dingel
+104 1702 22 39 5 3 61
+Michael J. Zyda
+127 3387 22 58 5 1 0
+Ronald F. Boisvert
+102 6139 22 78 6 3 3
+Alberto Avritzer
+87 1506 22 37 5 4 14
+Seongsoo Hong
+321 2381 22 47 6 3 11
+Tommaso Cucinotta
+92 1730 22 40 5 3 6
+Huaimin Wang
+358 2494 22 42 8 4 73
+Alf Inge Wang
+134 1366 21 32 5 3 9
+Mikael Svahnberg
+65 2891 21 53 4 3 4
+Sungwon Kang
+231 1645 21 34 8 4 60
+Frank Van Der Linden
+83 7749 21 83 5 3 8
+Riccardo Scandariato
+75 1385 21 35 4 3 17
+Tomi Männistö
+79 1633 21 39 5 3 44
+Heinz W. Schmidt
+140 1779 21 39 6 4 22
+Mikio Aoyama
+157 1503 21 37 6 3 10
+Yiannis Papadopoulos
+104 1774 21 40 5 2 16
+Dimitrios Soudris
+381 2126 22 34 6 4 111
+Sebastián Uchitel
+57 1584 21 39 4 3 46
+Silvio Romero De Lemos Meira
+168 1642 21 34 5 4 39
+Ingolf Krüger
+74 2569 21 50 5 4 0
+José Merseguer
+59 2299 21 47 4 4 6
+Manfred Glesner
+507 2045 21 32 6 4 0
+Martin Lukasiewycz
+87 1582 21 36 5 3 19
+Bruno Bougard
+100 1598 21 38 5 3 0
+C. Murray Woodside
+72 1760 21 41 4 4 3
+Claus Lewerentz
+71 2281 21 47 4 3 0
+Philippe Lalanda
+83 1565 22 37 4 3 1
+Josep Llosa
+72 1375 21 36 4 3 0
+Mieczyslaw M. Kokar
+143 1738 21 40 5 3 7
+Bum-Jae You
+193 1506 21 33 6 3 9
+Judith Stafford
+110 2459 20 49 5 3 0
+Connie U. Smith
+102 2424 20 48 4 3 1
+Rami Bahsoon
+99 1088 20 30 5 4 27
+Antonio Bucchiarone 
+79 1336 20 34 5 3 27
+Khalil Drira
+225 1532 20 31 6 4 0
+Liam O'Brien
+70 1775 20 41 5 3 5
+Michel C. Desmarais
+102 1284 20 34 5 3 7
+Giuseppe Scanniello
+170 1547 20 30 5 4 0
+Mikhail Auguston
+132 1160 20 30 5 3 12
+K. M. Van Hee
+108 2427 22 49 5 2 0
+Brian Fitzgerald
+58 3000 20 54 4 3 0
+Valerie Issarny
+106 1624 20 38 6 3 0
+Pierluigi Ritrovato
+104 1017 20 27 5 4 15
+Renaud Marlet
+77 1447 20 37 5 2 11
+G. Chiola
+34 2473 20 34 4 3 0
+Ana M. Moreno
+48 2472 20 48 4 3 0
+Matteo Frigo
+39 10854 20 39 4 2 0
+Susan Elliott Sim
+82 2060 20 44 5 3 1
+Ipek Ozkaya
+79 1474 20 37 5 3 31
+Lorenzo Donatiello
+66 1308 20 36 4 4 18
+Thais Batista
+141 1401 21 34 6 3 1
+David Lie
+41 3040 20 41 4 3 60
+Flávio Oquendo
+113 1120 19 28 5 4 35
+Lloyd G. Williams
+70 1743 19 41 4 2 0
+Wenyun Zhao
+188 1405 19 27 5 4 26
+Peng Liang
+74 1060 19 30 5 3 7
+K. Suzanne Barber
+128 1277 19 32 5 4 2
+Xiaoxing Ma
+79 998 19 28 5 4 39
+Davide Falessi
+52 866 19 29 5 3 10
+George T. Heineman
+69 1347 19 36 4 3 0
+Francesca Arcelli Fontana
+103 994 19 28 5 4 71
+Kamel Barkaoui
+183 1735 19 37 5 4 0
+Pierre N. Robillard
+81 1531 19 38 4 4 3
+Paolo Falcarin
+85 869 19 36 5 3 15
+Hossein Saiedian
+122 1799 19 41 5 4 9
+Xudong He
+255 1567 18 31 7 4 25
+Bedir Tekinerdogan
+148 1452 18 35 5 3 123
+Flavio Oquendo
+91 1305 18 34 5 3 0
+Mark Klein
+36 2466 18 36 4 2 0
+Xin Peng
+179 1384 18 28 5 4 32
+R. N. Taylor
+79 1891 18 42 5 3 0
+Maritta Heisel
+176 1177 18 29 5 4 24
+Pooyan Jamshidi
+61 1304 18 35 5 3 40
+Antinisca Di Marco
+75 1717 18 41 5 3 21
+Gerald C. Gannod
+76 1379 18 35 4 3 2
+Linda M. Northrop
+81 1623 19 40 5 3 0
+Bixin Li
+187 1442 18 31 5 4 28
+Doo-Hwan Bae
+110 1095 18 29 5 4 19
+Kendra Cooper
+181 1051 18 24 6 3 9
+Jing Sun
+69 898 18 28 4 3 4
+Feng Qin
+32 2055 18 32 4 3 0
+Magnus Larsson
+72 1956 18 44 5 3 0
+Qianxiang Wang
+74 1043 18 31 4 3 0
+Orlando Loques
+90 859 18 27 5 2 2
+João M. Fernandes
+78 940 19 29 5 3 26
+Klaas-Jan Stol
+46 1168 19 34 4 3 15
+Marija Mikic-Rakic
+33 1365 17 33 3 3 0
+Cecília M. F. Rubira
+38 892 17 29 4 3 1
+Yi Deng
+50 942 17 30 4 3 0
+Elisa Yumi Nakagawa
+112 778 17 24 5 3 47
+Anne Koziolek
+48 913 17 30 5 3 16
+Jilles Van Gurp
+44 2363 17 44 4 2 0
+Mohamed Jmaiel
+244 1387 17 27 5 5 0
+Giovanni Cantone
+84 1020 17 31 5 3 8
+Anton Jansen
+34 1556 17 34 4 3 1
+P. Ciancarini
+81 1015 17 28 4 3 0
+Bradley R. Schmerl
+37 3273 17 37 4 3 14
+Apostolos Zarras
+76 1071 17 31 4 3 25
+Samuil Angelov
+52 966 17 30 4 3 11
+Ricardo J. Machado
+71 821 17 24 4 3 6
+Brian Warboys
+90 1016 17 29 5 3 0
+Rich Hilliard
+36 745 17 27 5 2 0
+Erkki Mäkinen
+119 1067 17 30 4 3 12
+Vinicius Cardoso Garcia
+98 887 17 27 5 4 15
+Jon G. Hall
+186 1577 17 37 5 3 18
+Alexander B. Romanovsky
+66 980 17 30 4 3 0
+Hyun-Seok Lee
+61 1147 17 33 5 4 1
+Pin Zhou
+48 1573 17 39 5 2 0
+Julia Lawall
+32 1513 17 32 4 3 8
+Jens Happe
+74 866 17 27 5 3 6
+Depei Qian
+447 1431 17 25 6 5 88
+Sam Michiels
+118 1193 17 30 5 3 9
+J. C. Laprie
+34 1183 16 34 4 2 0
+Minseong Kim
+144 1045 17 31 6 3 3
+T. P. Baker
+37 1185 17 34 3 3 0
+Nicolas Guelfi
+123 1323 17 33 5 3 1
+Brian Berenbach
+71 809 17 28 5 3 0
+Christophe Dony
+107 1018 17 30 5 3 20
+Carlos Jesus Bernardos
+47 1463 17 38 4 3 24
+Sven Overhage
+66 1034 17 31 4 3 2
+Qishan Zhang
+514 2005 17 32 6 5 16
+De-Jiu Chen
+67 817 17 27 5 2 4
+Tero Päivärinta
+58 1045 17 31 4 3 3
+Jan Hoogerbrugge
+33 695 17 26 4 2 0
+Mourad Oussalah
+252 960 16 21 5 4 34
+Joshua Garcia
+23 865 16 23 4 0 12
+Cristina Gacek
+67 3421 16 58 5 2 1
+Henrik Bærbak Christensen
+55 863 16 28 4 3 2
+Jingjun Zhang
+300 1508 16 31 6 5 3
+Mark Woh
+21 1051 16 21 4 3 0
+Joelle Coutaz
+70 1622 16 40 5 2 1
+Paul J. Layzell
+31 1122 16 31 4 3 0
+Keith H. Bennett
+46 1943 16 44 4 3 0
+Alexander S. Yeh
+28 2025 16 28 3 3 0
+Petr Tuma
+73 949 16 29 5 4 45
+Dong-Sun Kim
+234 1546 16 38 6 3 13
+David R. Pratt
+38 2720 16 38 4 2 0
+Janusz Zalewski
+203 6568 16 80 5 3 15
+Lynne Blair
+33 1185 16 33 4 3 19
+Alexandre Alvaro
+44 761 16 26 4 3 0
+J. C. Laprie
+34 1183 16 34 4 2 0
+Eduardo Figueiredo
+25 1854 16 25 5 3 1
+Fernando Castor Filho
+35 1467 16 35 4 3 4
+Klaus Krogmann
+75 749 16 26 5 3 7
+Victoria Stavridou
+64 1319 16 36 5 3 0
+Fabio Checconi
+28 794 16 28 4 2 10
+David M. Young
+123 2176 16 46 5 4 0
+Christophe Bidan
+76 684 16 24 5 2 5
+Nour Ali
+42 746 15 27 4 3 2
+George Edwards
+31 744 15 27 4 3 14
+Ross Jeffery
+32 947 15 30 3 3 0
+Claudio Riva
+31 830 15 28 4 3 0
+Carlos E. Cuesta
+76 683 16 24 5 3 5
+Matthias Riebisch
+85 686 15 24 4 3 7
+David R. Harris
+64 978 15 31 4 3 0
+James E. Tomayko
+89 792 15 27 4 3 0
+Aldeida Aleti
+51 865 15 29 4 3 44
+Jafar Habibi
+145 889 15 24 5 4 27
+Ethan V. Munson
+114 871 15 25 5 3 15
+Domenico Laforenza
+94 1440 15 37 5 3 0
+Loe M. G. Feijs
+76 1002 15 30 5 4 58
+Deli Yang
+117 995 15 29 5 4 0
+Dung T. Huynh
+80 707 15 24 4 4 14
+Juan Manuel Murillo
+105 935 15 29 5 3 21
+J. Arlat
+31 1160 15 31 4 2 0
+Daniel Jackson
+37 1330 15 36 4 3 0
+Marwan Abi-Antoun
+60 762 15 26 4 3 0
+Yu-Yuan Chen
+92 1080 16 32 5 4 5
+Alessandro Aldini
+78 789 15 25 4 3 17
+Brian S. Mitchell
+95 1696 15 41 5 3 0
+Andreas Rausch
+38 616 15 24 4 2 0
+Adam Greenhalgh
+30 2481 15 30 4 2 0
+Björn Lundell
+81 933 15 29 5 3 4
+Matthias Galster
+94 768 14 25 4 3 49
+Kamran Sartipi
+56 586 14 23 4 3 7
+Jian Lv
+71 774 14 26 5 3 0
+Huiqun Yu
+209 946 14 28 5 4 48
+Mei-Hwa Chen
+31 1351 14 31 3 3 1
+Roshanak Roshandel
+43 804 14 28 4 2 0
+A. Mili
+41 1116 14 33 4 3 0
+Jian Lu
+68 965 14 30 4 4 22
+Makoto Amamiya
+202 781 14 22 5 4 0
+Michael Goedicke
+92 918 14 28 5 4 6
+In-Young Ko
+72 746 14 24 5 4 5
+Damien Pollet
+30 1262 14 30 4 2 0
+Lifu Wang
+176 1840 14 41 6 4 0
+C. Smidts
+19 628 14 19 3 2 0
+A. Inkeri Verkamo
+26 9379 14 26 3 3 0
+Silvia Regina Vergilio
+91 607 14 20 4 3 31
+Sebastian Steinhorst
+32 461 14 19 4 3 10
+Dario Faggioli
+18 619 14 18 3 2 0
+Norbert Egi
+23 1760 14 23 4 3 0
+Daniel Popescu
+40 798 14 28 4 3 1
+Henry Hexmoor
+209 1631 14 37 5 3 10
+Rikard Land
+66 659 13 24 5 3 1
+Chris A. Mattmann
+103 798 13 26 6 3 8
+Chouki Tibermacine
+50 451 13 19 4 3 19
+Catia Trubiani
+37 499 13 21 4 3 22
+Patricia Costa
+24 1382 13 24 4 3 0
+Roy T. Fielding
+25 15529 13 25 3 2 0
+Warwick B. Mugridge
+35 1371 13 35 3 3 0
+Christos Kloukinas
+51 537 13 22 4 3 2
+Patricio Letelier
+67 710 13 25 4 2 0
+Håkan Grahn
+64 703 13 25 4 3 6
+Stuart Clayman
+30 1218 13 30 5 3 12
+Pierre America
+30 1820 13 30 4 3 0
+Horst Lichter
+116 1003 13 29 5 3 12
+Arvind S. Krishna
+37 555 13 23 4 3 0
+Mauro Caporuscio
+33 831 13 28 4 3 0
+Alex Quilici
+30 3004 13 30 4 3 0
+Zhiqiu Huang
+251 773 13 20 6 5 184
+Mehdi Mirakhorli
+48 619 14 24 4 3 29
+David S. Janzen
+27 712 13 26 4 2 0
+Antony Tang
+18 1397 13 18 3 2 1
+Andrea Clematis
+126 726 13 21 5 3 19
+Katrina Falkner
+41 514 14 21 4 3 0
+Emilio Insfrán
+65 1160 13 33 4 3 32
+Thomas A. Alspaugh
+73 538 13 22 4 2 0
+Claudia P. Ayala
+31 472 13 21 4 3 6
+Christelle Urtado
+63 420 13 18 4 3 10
+Rémi Douence
+49 1659 13 40 4 3 19
+Hans Rohnert
+16 3396 12 16 4 2 0
+Felix Bachmann
+15 812 12 15 3 2 0
+Jennifer Pérez
+40 454 12 20 4 0 9
+Dharini Balasubramaniam
+51 567 12 22 4 3 0
+Viktor Clerc
+19 515 12 19 4 2 0
+H. H. Ammar
+22 534 12 22 4 2 0
+Shang-Wen Cheng
+26 2157 12 26 4 3 0
+Michael E. Shin
+30 524 12 22 3 3 0
+Juan C. Dueñas
+62 701 12 26 5 4 3
+Philippe Roose
+105 430 12 16 5 4 60
+Yuan Lin
+23 858 12 23 4 2 0
+João Pedro Sousa
+40 2917 12 40 4 3 0
+Juan Antonio De La Puente
+89 590 12 21 5 3 2
+Jukka Paakki
+38 717 12 26 4 3 0
+Henrik Lönn
+27 505 12 22 4 3 4
+Anders Wall
+38 470 12 21 4 2 0
+Suntae Kim
+53 551 12 23 5 3 13
+R. Mark Greenwood
+34 741 12 27 4 3 0
+Marta Simeoni
+37 1240 12 35 5 3 0
+Juha Kuusela
+29 940 12 29 4 3 0
+Manuel Noguera
+80 431 12 17 5 4 35
+Alfred Strohmeier
+70 447 12 19 4 3 0
+Rik Farenhorst
+21 537 12 21 3 3 0
+Diego Puppin
+28 574 12 23 3 3 0
+Wenpin Jiao
+52 397 12 18 4 3 2
+Ricardo Jorge Machado
+51 376 12 18 4 3 0
+Kostas Siozios
+103 491 12 18 4 3 16
+Mónica Pinto
+43 675 12 25 4 3 17
+João Pimentel
+35 340 12 17 4 3 1
+Mark-Oliver Reiser
+34 428 12 20 4 3 2
+David Servat
+31 610 12 24 4 3 0
+Divya Arora
+21 507 12 21 3 2 0
+Cláudio Sant'Anna
+22 927 12 22 4 3 0
+Sylvain Vauttier
+61 372 12 17 4 3 6
+Thanh-Hung Nguyen
+29 932 12 29 4 2 13
+Gabriella Dodero
+72 408 12 17 5 3 16
+Massimo Ancona
+65 577 12 22 5 3 0
+Alexandre Demeure
+43 679 12 26 4 2 0
+José C. Maldonado
+22 1042 12 22 4 2 0
+Maozhong Jin
+142 537 12 18 5 4 0
+Doo-Hyun Kim
+119 699 12 24 6 4 0
+Gengfeng Wu
+100 401 12 16 5 4 0
+Ilka Philippow
+63 514 12 21 4 3 0
+Christiano Braga
+30 628 12 25 4 2 2
+Iara Augustin
+42 434 12 20 6 3 0
+Eric M. Dashofy
+16 2490 11 16 2 2 0
+Perolof Bengtsson
+20 1057 11 20 3 1 0
+#Intel Corporation
+75 539 11 18 3 1 0
+Ahmed Hadj Kacem
+144 613 11 17 5 4 69
+Will Tracz
+82 552 11 23 4 2 0
+Ivo Krka
+25 459 11 21 4 3 18
+Marc Dalmau
+83 361 11 16 4 3 17
+Alexandre Sztajnberg
+59 332 11 17 4 2 10
+Huiqun Zhao
+81 348 11 15 5 4 0
+Ulrik Eklund
+18 357 11 18 3 3 0
+Hongyu Pei Breivold
+19 519 11 19 3 2 4
+Chris Mattmann
+29 536 11 23 5 3 5
+A. L. Wolf
+35 588 11 23 4 2 0
+Tore Urnes
+24 743 11 24 4 2 0
+Johan Muskens
+16 578 11 16 3 2 0
+Ricardo Terra
+22 506 11 22 4 3 6
+Zhichang Qi
+77 330 11 15 5 4 0
+Thelma Elita Colanzi
+32 313 11 16 4 3 6
+Remco C. De Boer
+20 422 11 20 4 3 1
+Ningning Hu
+28 1507 11 28 4 2 0
+M. P. A. Sellink
+20 905 11 20 3 3 0
+K. Kanoun
+16 490 11 16 4 2 0
+Carlos J. P. Lucena
+28 542 11 23 4 2 0
+N. Dulay
+26 2234 11 26 4 2 0
+Xiangheng Shen  
+83 356 11 13 5 3 0
+Reda A. Ammar
+194 455 11 15 6 4 7
+Issa Traore
+77 349 11 17 5 3 0
+Fereidoon Shams
+54 338 11 16 4 3 3
+Rix Groenboom
+23 537 11 23 4 2 0
+Peter Liggesmeyer
+177 868 11 28 5 3 21
+Fabiano Cutigi Ferrari
+27 902 11 27 4 3 3
+Dalila Tamzalit
+68 316 10 15 4 3 7
+Nikunj R. Mehta
+20 976 10 20 3 1 0
+Mei Rong
+205 433 10 12 5 4 4
+Shi Ying
+122 546 10 21 5 4 22
+Salah Sadou
+58 340 10 16 4 3 8
+Jens Knodel
+74 457 10 20 5 3 8
+James Ivers
+21 381 10 19 3 2 0
+Danhyung Lee
+33 362 10 18 4 3 0
+Jeremy S. Bradbury
+34 774 10 27 3 2 0
+Abdelhak Seriai
+46 271 10 14 4 3 0
+Chiyoung Seo
+20 442 10 20 2 2 0
+Jan Van Katwijk
+47 241 10 14 4 3 0
+Chang-Yun Li
+135 466 10 17 5 0 0
+Jianli Xu
+29 505 10 22 4 3 0
+Chaudron, M.R.V.
+18 444 10 18 3 3 0
+J. Jenny Li
+52 426 10 20 4 3 0
+Linpeng Huang
+93 357 10 14 5 4 1
+Ilham Alloui
+33 376 10 19 4 3 1
+Wilhelm Rossak
+84 344 10 16 5 3 7
+Anders Mattsson
+143 1030 10 32 6 2 4
+J. R. Horgan
+13 714 10 13 3 2 0
+Indika Meedeniya
+17 630 10 17 2 3 4
+Jai Asundi
+24 2146 10 24 3 2 0
+Mikko Raatikainen
+63 296 10 15 4 3 34
+Thomas Heyman
+16 394 10 16 3 2 1
+Pasqualina Potena
+34 335 10 18 3 3 2
+Jose Carlos Maldonado
+61 489 10 21 5 2 1
+Simon Giesecke
+20 298 10 17 4 2 0
+Cheng Thao
+28 202 10 13 4 3 0
+José Parets-Llorca
+23 200 10 13 4 2 0
+G. Robert Malan
+16 851 10 16 3 2 0
+Vittoria Gianuzzi
+60 266 10 14 4 3 0
+Ron Morrison
+36 439 10 20 4 2 0
+Michael M. Gorlick
+21 1826 10 21 4 2 0
+Patrick Armengaud
+16 2491 10 16 4 3 0
+Yves Wautelet
+72 242 10 13 4 3 15
+Issa A. D. Nesnas
+28 524 10 22 4 1 6
+Rogerio De Lemos
+47 764 10 27 5 2 0
+Nary Subramanian
+66 243 9 13 4 3 6
+Reed Little
+14 1277 9 14 4 2 0
+Daniel Paulish
+26 689 9 26 4 3 0
+Michael Stal
+34 3287 9 34 3 3 0
+Eila Niemelä
+37 642 9 25 4 3 0
+Monika Schmidt
+28 399 9 19 5 3 0
+Yanchun Sun
+63 332 9 17 4 3 0
+Titos Saridakis
+34 258 9 15 3 2 0
+Aakash Ahmad
+17 484 9 17 2 3 2
+Ying Shi
+114 308 9 13 5 4 0
+Arne Haber
+14 432 9 14 3 2 33
+Francisca Losavio
+73 278 9 16 4 2 1
+Ivan T. Bowman
+16 430 9 16 3 2 0
+Vibhu Saujanya Sharma
+57 342 9 18 8 3 7
+Michael R. Macedonia
+20 2773 9 20 3 3 0
+Bárbara Álvarez
+43 352 9 18 4 2 0
+Wojtek Kozaczynski
+30 469 9 21 4 3 0
+René L. Krikhaar
+16 242 9 15 3 2 0
+Diego Perez-Palacin
+23 232 9 14 3 3 15
+Sunny Wong
+21 379 9 19 4 3 0
+Vineet Sinha
+30 947 9 30 4 2 0
+Mark D. Apperley
+23 332 9 18 4 3 0
+L. G. Williams
+35 519 9 22 4 3 0
+Anne-Françoise Le Meur
+19 353 9 18 3 3 0
+Cindy Michiels
+13 176 9 13 2 2 0
+Jungwoo Ryoo
+58 285 9 14 5 3 5
+Robert W. Schwanke
+16 499 9 16 3 3 0
+Bas Graaf
+18 360 9 18 3 2 0
+Keunhyuk Yeom
+63 303 9 17 4 3 0
+Angelo Gaeta
+31 255 9 15 4 3 6
+Loïc Besnard
+24 302 9 17 4 3 2
+Edwin De Jong
+16 427 9 16 4 3 0
+D. F. Sittig
+19 502 9 19 4 2 0
+Tomi Mannisto
+23 264 9 16 4 2 1
+Christine Hofmeister
+26 1049 8 26 3 3 0
+H. Rohnert
+12 1210 8 12 3 1 0
+W. Abdelmoez
+19 217 8 14 4 2 0
+Koen Buyens
+15 269 8 15 3 2 0
+Hamid Bagheri
+16 137 8 11 3 0 8
+Eric Bouwers
+21 214 8 14 3 3 2
+Cecília Mary F. Rubira
+9 242 8 9 3 2 0
+Anne Martens
+12 329 8 12 3 2 0
+Hasan Sözer
+20 156 8 11 3 3 0
+Hasan Sozer
+13 225 8 13 3 2 0
+R. A. Riemenschneider
+18 666 8 18 3 2 0
+Xiaoxing Ma
+29 388 8 19 4 2 0
+Xue-Yang Zhu
+15 210 8 14 3 2 3
+Peter Sommerlad
+27 256 8 16 3 2 0
+Igor Ivkovic
+12 290 8 12 4 2 0
+Dan Decasper
+23 830 8 23 3 1 0
+Junhua Ding
+39 499 8 22 4 3 1
+Hans De Bruin
+17 179 8 13 3 3 0
+S. Jeromy Carrière
+13 2001 8 13 3 2 1
+Leonor Barroca
+32 333 8 18 4 3 2
+Clovis Chapman
+16 466 8 16 4 2 0
+Dharmalingam Ganesan
+32 192 8 13 4 3 14
+Peter Knauber
+32 795 8 28 4 2 0
+Naixiao Zhang
+20 175 8 13 3 3 0
+S. Balsamo
+30 278 8 16 4 3 0
+Milena Guessi
+19 205 8 14 3 2 11
+Danny Greefhorst
+21 902 8 21 3 2 0
+Yeong-Tae Song
+41 215 8 13 4 2 0
+Jörg Butterfaß
+9 415 8 9 4 1 0
+Raghvinder S. Sangwan
+30 250 8 15 4 3 9
+Alfred Zimmermann
+34 229 8 14 4 3 16
+Heorhiy Byelas
+23 819 8 23 5 3 0
+Zhiyu Rue
+14 363 8 14 3 2 0
+Suzanne M. Kelly
+24 334 8 18 4 2 0
+Jang Ho Lee
+37 458 8 21 5 3 0
+Sorana Cîmpan
+21 164 8 11 3 3 0
+Matthieu Gallien
+22 363 8 19 4 2 0
+Huafeng Yu
+31 238 8 14 5 3 3
+Marzia Zaman
+29 262 8 15 4 3 6
+Ralf H. Reussner
+26 160 8 11 4 3 25
+Chenghuai Lu
+14 361 8 14 3 2 0
+Christer Norstrom
+52 380 8 19 4 2 0
+Guanglei Song
+28 223 8 14 4 3 0
+Weiru Chen
+81 398 8 19 5 4 0
+Ian Robertson
+15 147 8 12 3 2 0
+Mohamed Hadj Kacem
+24 175 7 12 3 3 7
+M. Shereshevsky
+14 214 7 14 3 2 0
+Amar Ramdane-Cherif
+83 185 7 12 4 3 31
+Mari Matinlassi
+17 128 7 11 3 2 0
+Matthias Naab
+25 229 7 15 3 0 4
+Marcio S. Dias
+10 209 7 10 2 2 0
+Rainer Weinreich
+65 191 7 12 4 3 36
+Olivier Le Goaer
+22 112 7 10 4 3 1
+Holger Rendel
+11 245 7 11 3 2 21
+Melissa P. Chase
+10 144 7 10 3 2 0
+Barbora Buhnova
+20 513 8 20 3 2 5
+Franz Brosch
+8 222 7 8 2 0 0
+Kevlin Henney
+36 177 7 13 3 2 0
+Nico Lassing
+13 696 7 13 2 1 0
+Cristóbal Costa Soria
+11 111 7 10 2 2 0
+Zhijiang Dong
+25 115 7 9 4 2 0
+Yujian Fu
+20 96 7 9 3 2 6
+Ping Yu
+13 253 7 13 3 2 0
+Palle Nowack
+22 164 8 12 3 2 0
+Nicolas Gold
+7 443 7 7 3 2 0
+Marco Bernardo
+14 133 7 11 3 0 0
+Nelson S. Rosa
+19 167 7 12 4 3 0
+Fermín Galán Márquez
+8 366 7 8 3 2 1
+Shikun Zhang
+55 220 7 13 4 3 1
+Paulo Merson
+15 544 7 15 3 2 0
+Leslie Cheung
+11 297 7 11 3 2 0
+John C. Georgas
+15 333 7 15 2 2 0
+Mark W. Maier
+14 449 7 14 2 2 0
+Chen Meng
+93 222 7 9 5 3 0
+Silverio Martínez-Fernández
+9 94 7 9 2 2 4
+Andrea Sosio
+10 164 7 10 2 2 0
+C. U. Smith
+18 247 7 15 2 2 0
+Daan Rijsenbrij
+14 189 7 13 3 1 0
+Ramin Tavakoli Kolagari
+23 288 7 16 4 2 3
+Paulo Asterio De Castro Guerra
+9 204 7 9 3 2 0
+Guosun Zeng
+64 256 7 14 4 3 0
+Steffen Becker
+8 281 7 8 2 2 0
+D. Koelma
+14 166 7 12 3 2 0
+Debra Richardson
+17 155 7 12 3 2 0
+Kendra Cooper
+15 197 7 14 3 2 0
+George Kakarontzas
+26 162 7 11 3 3 3
+Bian Wu
+13 169 7 13 2 2 0
+Dilip Soni
+19 666 6 19 4 2 0
+M. Stal
+13 530 6 13 3 1 0
+Adel Smeda
+23 130 6 10 3 2 0
+F. Buschmann
+17 489 6 17 4 2 0
+Adel Alti
+23 67 6 6 3 3 1
+Regine Meunier
+13 964 6 13 3 2 0
+Christian Del Rosso
+17 126 6 11 3 2 0
+Weihang Wu
+6 158 6 6 1 2 0
+J. Mitola
+19 301 6 17 3 2 0
+Lars Bratthall
+10 219 6 10 3 2 0
+Mourad Chabane Oussalah
+31 106 6 8 4 3 3
+P. R. F. Cunha
+11 131 6 11 3 2 0
+Helena Rodrigues
+15 191 6 13 3 2 0
+Shahrouz Moaven
+18 142 6 11 3 3 1
+Yaodong Feng
+10 300 6 10 4 2 0
+Zubin Dittia
+23 891 6 23 3 1 0
+Byron J. Williams
+10 227 6 10 2 2 0
+Delano M. Beder
+8 135 6 8 3 2 0
+Helena Martins Marques
+7 87 6 7 2 2 0
+Elspeth Golden
+12 223 6 12 2 2 0
+Yuhong Cai
+9 184 6 9 3 2 0
+Lian Mo
+15 706 6 15 4 0 0
+Carl B. Dietrich
+17 272 6 16 4 2 0
+Ahmed Abdallah
+18 294 6 17 4 2 0
+Ronghua Zhang
+8 530 6 8 2 2 0
+Frank Lüders
+15 109 6 10 3 1 0
+Florian Sagstetter
+8 157 6 8 3 2 4
+David Champagne
+9 325 7 9 3 2 0
+Marco Bernardo
+12 383 6 12 2 2 0
+Hyong Sop Shim
+20 384 6 19 4 2 0
+Philippe Dugerdil
+41 108 6 9 4 3 11
+Pedro O. Rossel
+16 87 6 9 4 2 4
+Banani Roy
+10 139 6 10 3 2 0
+Luxi Chen
+27 100 7 9 4 2 1
+Pam Binns
+12 107 6 10 3 2 0
+Steve Vestal
+13 137 6 11 3 2 0
+Andrea Savigni
+15 210 6 14 3 2 0
+Thomas J. Graser
+17 83 6 8 3 2 0
+Sylvia Stuurman
+13 98 6 9 3 2 1
+Anders Sandberg
+9 240 6 9 4 2 0
+Philippe Cuenot
+11 217 5 11 4 1 0
+Varvana Myllarniemi
+11 85 6 9 3 2 1
+Kath Mickan
+9 101 6 9 3 2 0
+Henk Obbink
+15 716 5 15 3 2 0
+Hassan Reza
+51 100 5 8 4 2 0
+Nassima Sadou
+9 64 5 8 2 2 0
+Abdelkrim Amirat
+37 105 5 8 4 2 5
+R. Gunnalan
+9 158 5 9 3 2 0
+G. A. Farrukh
+6 86 5 6 1 2 0
+Tahar Khammaci
+18 117 5 10 3 2 0
+Babak Hodjat
+36 156 5 12 4 1 4
+J. Ivers
+8 2352 5 8 3 1 0
+Youcong Ni
+24 51 5 6 4 3 2
+Mahmood Moussavi
+16 120 5 10 3 3 0
+#Intel
+15 94 5 9 1 1 0
+Nick Rozanski
+5 762 5 5 1 2 0
+Jennifer Pérez
+5 140 5 5 2 1 0
+Anne-Francoise Le Meur
+17 553 5 17 3 2 0
+Tuomas Ihme
+23 337 5 18 4 3 0
+Veli-Pekka Eloranta
+30 74 5 8 4 2 7
+Klaus Renzel
+9 55 5 7 2 0 0
+Raghvinder Sangwan
+9 370 5 9 3 2 0
+Lou Coglianese
+7 275 5 7 3 1 0
+Jie Yang
+15 222 5 14 4 3 0
+Maarten Boasson
+21 86 5 9 4 2 0
+Moon Ting Su
+9 56 5 7 3 2 0
+Kalai Kalaichelvan
+8 254 5 8 3 2 0
+Joshua J. Pauli
+17 136 5 11 2 2 0
+Alexander Ran
+19 313 5 17 3 2 0
+Mark Scott Johnson
+11 164 5 11 1 2 0
+Nancy S. Eickelmann
+7 174 5 7 2 2 0
+Isidro Ramos Salavert
+58 65 5 7 5 1 0
+Ivan Mistrik
+8 96 5 8 3 2 0
+D. C. Swinehart
+6 108 5 6 2 1 0
+Ali Kamandi
+12 93 5 9 2 2 0
+Tatiana Sugeta
+8 280 5 8 3 2 0
+Patrick H. S. Brito
+9 70 5 8 3 2 0
+Michal Sojka
+10 94 5 9 3 2 0
+Yue Ma
+8 69 5 8 3 2 1
+Daniel V. Klein
+13 1532 5 13 2 2 0
+Gregory Zelesnik
+11 1418 5 11 3 1 0
+Vladimir Jakobac
+7 134 5 7 2 1 0
+Soon Ju Kang
+33 63 5 7 4 3 0
+Daniel Perovich
+12 99 5 9 3 2 1
+Ana-Elena Rugina
+16 395 5 16 3 2 0
+Azadeh Alebrahim
+22 54 5 6 3 3 5
+Patrick Frey
+8 136 5 8 3 1 0
+Matthias Weber
+13 190 5 13 4 2 0
+Philippe Cuenot
+11 217 5 11 4 1 0
+Shifeng Zhang
+9 118 5 9 2 2 0
+Samuel Ajila
+18 122 5 10 3 2 1
+Thomas J. Mowbray
+14 976 5 14 3 2 0
+Bradford Clark
+7 1173 5 7 3 1 0
+Zengyang Li
+9 286 5 9 2 2 3
+Georg Buchgeher
+18 42 4 5 3 2 8
+Bo Yu
+5 136 4 5 3 2 0
+Hossein Tajalli
+6 231 4 6 3 2 0
+Outi Räihä
+12 67 4 8 2 2 0
+Linlin Zhang
+21 57 4 7 4 2 0
+Frans Mårtensson
+8 148 4 8 3 1 0
+Hui Gao
+8 31 4 4 3 2 0
+L. Coglianese
+8 54 4 7 2 0 0
+Peng Ye
+8 25 4 4 3 1 0
+Jing Wen
+11 55 4 7 3 2 0
+Somo Banerjee
+6 107 4 6 3 2 0
+Ni Youcong
+13 53 4 6 4 0 0
+Wolfgang Eixelsberger
+9 88 4 9 3 2 1
+Yoav Harel
+6 445 4 6 3 1 0
+Sorana Cimpan
+14 173 4 13 3 1 0
+R. A. Van Der Toorn
+9 240 4 9 2 1 0
+Kari A. Nies
+9 770 4 9 4 2 0
+Ledis Chirinos
+9 134 4 9 3 1 0
+Hong Yang
+8 43 4 6 2 1 0
+Lijun Lun
+20 69 4 8 3 0 0
+Duc Minh Le
+11 76 4 8 4 2 1
+Robert T. Monroe
+24 1242 4 24 3 2 0
+Neeraj Sangal
+10 267 4 10 3 2 0
+David Woollard
+21 92 4 9 4 2 0
+Maria Cecilia Bastarrica
+20 81 5 8 4 2 0
+S. Bogazzi
+4 68 4 4 3 1 0
+Michael Mattsson
+5 142 4 5 3 1 0
+Srdjan Stevanetic
+12 56 5 6 3 2 16
+Lilli Nenonen
+6 76 4 6 2 1 0
+Juha Gustafsson
+10 126 4 10 2 1 0
+Rongzuo Guo
+18 58 4 6 3 0 1
+Ramin Etemaadi
+7 66 4 7 2 2 0
+Jeffrey M. Barnes
+7 80 4 7 3 2 0
+Luis M. Contreras
+4 264 4 4 3 1 10
+Ana Dragomir
+5 26 4 5 1 1 0
+Sushila Subramanian
+5 109 5 5 3 2 0
+Darío Correal
+20 46 4 6 3 3 8
+Rüdiger Esser
+9 84 4 9 2 2 0
+Steven I. Kartashev
+33 75 4 8 1 2 0
+Daniele Compare
+6 142 4 6 2 1 0
+Laxmisha Rai
+26 30 4 5 4 2 0
+R. Sanlaville
+7 48 4 6 2 1 0
+Chadlia Jerad
+13 49 4 6 3 2 1
+Jose Angel Carsi
+14 55 4 7 4 1 0
+Marcel Bennicke
+9 47 4 6 3 2 0
+Taimur Khan
+12 110 4 10 4 2 8
+Juan A. Valenzuela
+5 27 4 5 4 2 0
+Elisa Y. Nakagawa
+5 110 4 5 3 1 0
+Juergen Teich
+6 84 4 6 3 2 0
+Christelle Chaudet
+5 165 4 5 2 2 0
+Eric H. S. Lee
+3 257 3 3 1 1 0
+John B. Tran
+3 183 3 3 1 1 0
+Alexander Ran
+4 387 3 4 3 1 0
+Lijun Lun
+10 31 3 5 2 2 3
+Iman H. Poernomo
+3 454 3 3 1 1 0
+Fadila Aoussat
+8 27 3 5 2 1 0
+Margaret Hamill
+4 124 3 4 2 1 0
+Kai Zhao
+16 36 3 5 4 2 0
+Wangen Huang
+10 31 3 5 2 1 0
+P. Sommerlad
+4 454 3 4 2 1 0
+Yanchun Sun
+9 24 3 4 3 2 0
+Martin Traverso
+4 106 3 4 1 1 0
+Periklis Sochos
+5 96 3 5 2 1 0
+D. H. Gelernter
+3 46 3 3 2 1 0
+Shi Ying
+18 27 3 4 4 3 0
+Yongmin Wu
+11 36 3 5 2 2 0
+Amparo Navasa
+6 108 3 6 2 1 1
+Tianjun Shi
+6 83 3 6 2 2 0
+George R. R. Justo
+5 99 3 5 2 2 0
+Kanwarpreet Sethi
+6 155 3 6 2 1 0
+Hataichanok Unphon
+5 76 3 5 2 2 0
+Tamer Rafla
+5 46 3 5 2 2 0
+Marlon E. R. Vieira
+4 87 3 4 1 1 0
+Henrique C. Miranda
+6 28 3 5 3 0 0
+Imen Kahloul
+7 180 3 7 3 1 0
+J. M. Nerson
+3 66 3 3 2 0 0
+Peng Liang
+4 54 3 4 2 1 1
+Antony Tang
+4 54 3 4 2 0 1
+Klaas Andries De Graaf
+5 55 3 5 2 2 1
+Chen Li
+15 34 3 5 3 2 1
+Maureen Bartholomew
+5 24 3 4 3 1 0
+David Mccomas
+6 27 3 5 3 2 0
+Tonny Kurniadi Satyananda
+3 56 3 3 1 0 0
+Mert Ozkaya
+10 29 3 5 1 2 0
+Jing Dong
+8 81 3 8 3 2 0
+Peter Knoop
+5 37 3 5 3 2 0
+Liliana Dobrica
+25 345 2 18 3 2 0
+Mark Mitchell
+2 1575 2 2 2 1 0
+Mark Horowitz
+2 1575 2 2 2 1 0
+Roseanne Tesoriero Tvedt
+5 69 2 5 3 2 0
+Michael Gagliardi
+4 70 2 4 3 1 0
+Jose A. Carsí
+4 88 2 4 2 1 0
+Anu Purhonen
+15 30 2 5 3 2 0
+Irv Englander
+9 10 2 3 2 2 0
+I. Tavakoli
+2 82 2 2 2 0 0
+Sonia Bot
+2 111 2 2 2 1 0
+Ev Jordan
+2 253 2 2 1 1 0
+G. M. Scallon
+2 75 2 2 1 1 0
+Stal Michael
+3 62 2 3 2 0 0
+D. Sova
+3 64 2 3 2 1 0
+Elif Demirli
+3 29 2 3 1 1 0
+Luo Ju-Bo
+5 12 2 3 3 1 0
+Rogelio N. Limón Cordero
+7 9 2 2 2 1 0
+Walter A. Triebel
+24 8 2 2 2 2 0
+Gregory Johnson
+2 2455 2 2 2 0 0
+Ioannis Georgiadis
+5 334 2 5 2 1 0
+Eckart Horn
+2 22 2 2 2 0 0
+Jari Isokallio
+2 39 2 2 2 1 0
+Kimmo Hoikka
+6 39 2 6 2 0 0
+Teemu Mäkelä
+5 39 2 5 3 1 0
+F Bachmann
+1 2189 1 1 2 0 0
+L Bass
+1 2189 1 1 2 0 0
+R Little
+1 2189 1 1 2 0 0
+P Clements
+1 2189 1 1 2 0 0
+J Stafford
+1 2189 1 1 2 0 0
+Jeff Magee
+1 1186 1 1 1 0 0
+Jeff Magee
+1 832 1 1 1 0 0
+H. Garraway
+2 1835 1 2 0 1 0
+Theodore L. Ross
+1 1213 1 1 2 0 0
+Jan Bosch
+1 575 1 1 1 0 0
+Outi Raiha
+5 10 1 3 2 1 0
+Herve Verjus
+17 82 1 9 3 2 0
+R. Meunier
+1 434 1 1 2 0 0
+Frank Buschmann
+1 1771 1 1 1 0 0
+John Mitchell
+1 803 1 1 2 0 0
+Frank Buschmann
+1 790 1 1 1 0 0
+David Lie
+1 772 1 1 2 0 0
+Mike Webb
+1 737 1 1 1 0 0
+Ian Gorton
+1 311 1 1 0 0 0
+Jan Bosch
+1 2109 1 1 0 0 0
+Taner Arsan
+17 18 1 4 3 2 0
+Jan Bosch
+1 356 1 1 0 0 0
+Robert Allen
+1 387 1 1 1 0 0
